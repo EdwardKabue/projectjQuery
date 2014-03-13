@@ -1,0 +1,15 @@
+{
+  "name": "hapi-project",
+  "version": "0.0.0",
+  "description": "my hapi-project using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Kabue",
+  "license": "ISC",
+  "dependencies": {
+    "happy": "0.0.1",
+    "hapi": "~3.0.0"
+  }
+}
